@@ -12,7 +12,7 @@ This project was built for our Semiconductor Mini Project.
   - [Components & Cost](#components--cost)
   - [Circuit Diagram](#circuit-diagram)
   - [App](#app)
-    - [Download APK](https://github.com/rohitkumar101-afk/robotic-arm-mini-project-sem-1/blob/main/build/Robotic_Arm_Controller.apk)  
+    - [Download APK](https://github.com/RohitKumar-tech/robotic-arm-mini-project-sem-1/blob/main/build/Robotic_Arm_Controller.apk)  
   - [License](#license)
   - [Credits](#credits)
   - [Authors](#authors)
@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- [Rohit Kumar | RA2311003011411](https://github.com/rohitkumar101-afk)
+- [Rohit Kumar | RA2311003011411](https://github.com/RohitKumar-tech)
 - Rishika Raj | RA2311003011412
 - Lakshay Sharma | RA2311003011413
 - Vinuthan MH | RA2311003011414
