@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- Rohit Kumar | RA2311003011411(https://github.com/rohitkumar101-afk)
+- [Rohit Kumar | RA2311003011411](https://github.com/rohitkumar101-afk)
 - Rishika Raj | RA2311003011412
 - Lakshay Sharma | RA2311003011413
 - Vinuthan MH | RA2311003011414
